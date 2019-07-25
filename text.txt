@@ -1,1 +1,1 @@
-﻿title,rss_link; title,rss_link
+﻿Entrepreneur,entrepreneur.com/latest.rss ; SmallB,smallbusinesscan.com/feed
